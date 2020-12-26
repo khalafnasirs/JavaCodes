@@ -20,3 +20,4 @@
         info: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas doloremque aperiam beatae necessitatibus fugiat nam ab suscipit reprehenderit natus unde iusto voluptates consectetur ullam, maiores harum aut commodi recusandae earum voluptas mollitia. Ut, voluptates. Quasi ratione optio dolorum eligendi alias, laborum cupiditate expedita, maxime eaque atque aspernatur quisquam fugit perspiciatis nisi hic aliquam debitis sunt molestiae qui facilis eveniet assumenda porro beatae? Ipsa tenetur tempora repellat placeat quo voluptas earum adipisci doloremque, minus saepe quas blanditiis illo nisi aliquid modi deserunt optio qui eligendi! Magni id iste sequi nihil consectetur laboriosam tempore? Aut quae tempora, fuga laborum sit obcaecati dolor.'
     }
 ]
+
